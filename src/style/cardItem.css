@@ -1,0 +1,13 @@
+*{
+    margin: o;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+.cardItem{
+    border : 1px solid red;
+    height :380px;
+    width: 250px;
+    padding: 10px;
+}
